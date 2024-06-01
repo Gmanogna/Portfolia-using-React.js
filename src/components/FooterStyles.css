@@ -1,0 +1,49 @@
+.footer{
+    width:100%;
+    height:100%;
+    padding:2rem 0;
+    background:rgba(52, 51, 51, 0.85);
+}
+.footer-container{
+    max-width:1140px;
+    margin:auto;
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    grid-gap:50px;
+}
+
+.left{
+    height:100%;
+    max-width:100%;
+    display:flex;
+    flex-direction:column;
+    padding:1rem;
+}
+.location{
+    display:flex;
+    margin-bottom:0.8rem;
+}
+.location p{
+    line-height:30px;
+}
+.phone,.linkedin,.github{
+    margin-bottom:0.8rem;
+}
+
+.right{
+    height:100%;
+    max-width:100%;
+    display:flex;
+    flex-direction:column;
+    padding:1rem;
+}
+
+p{
+    font-size:1.2rem;
+}
+
+@media screen and(max-width:640px){
+    .footer-container{
+        grid-template-columns:1fr; 
+    }
+}

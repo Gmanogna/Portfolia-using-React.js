@@ -1,0 +1,117 @@
+run:
+
+**********WELCOME TO SBI ATM SYSTEM**********
+
+1.Register 
+2.Exit
+Enter Your Choice - 1
+
+Enter Your Name - Manogna
+
+Enter Your Username - Manogna
+
+Enter Your Password - Manogna
+
+Enter Your Account Number - 123456
+
+Registration completed..kindly login
+
+1.Login 
+2.Exit
+Enter Your Choice - 1
+
+Enter Your Username - Manogna
+
+Enter Your Password - Manogna
+
+Login successful!!
+
+**********WELCOME BACK Manogna **********
+
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 2
+
+Enter amount to deposit - 10000
+
+Sorry...Limit is 100000.00
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 100000
+Choose the number between 1 to 6
+1
+
+Enter amount to withdraw - 5000
+
+Withdraw Successfully
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 4
+
+95000.0 Rs
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 3
+
+Enter Receipent's Name - Teja
+
+Enter amount to transfer - 5000
+
+Successfully Transfered to Teja
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 4
+
+90000.0 Rs
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 5
+
+5000.0 Rs Withdrawed
+5000.0 Rs transfered to Teja
+
+
+1.Withdraw 
+2.Deposit 
+3.Transfer 
+4.Check Balance 
+5.Transaction History 
+6.Exit
+
+Enter Your Choice - 
